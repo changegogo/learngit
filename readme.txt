@@ -5,4 +5,8 @@ Git tracks changes.
 Git another.
 GIT GIT
 Create a new branch is quick.
+<<<<<<< HEAD
 add dev
+=======
+add dev2
+>>>>>>> dev2
