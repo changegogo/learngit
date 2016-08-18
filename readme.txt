@@ -12,3 +12,6 @@ add dev2
 >>>>>>> dev2
 Creating a new branch is quick and simple.
 dev222222222222222
+qwerrtr
+
+dev add
